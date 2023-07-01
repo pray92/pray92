@@ -5,7 +5,7 @@
 ## 🙇🏻 Introduction
 
 - Hi!, I'm C/C++ Software Engineer for 5 years 
-- I struggle to move to java back-end engineer
+- I'm struggling to move to java back-end engineer
 - My life keywords are `#happiness` `#challenge` `#persistence`
 - I love to make the result by new challenge
 

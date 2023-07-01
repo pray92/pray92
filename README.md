@@ -47,6 +47,11 @@
    <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pray92&layout=compact&theme=transparent&hide_border=true" />
 </a> 
 
+## Solved.ac
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=redgem92)](https://solved.ac/redgem92/)
+
+
 ## 💡 Detail
 
 [<img align="left" alt="SOKURI_CODE | V" width="48px" color="#95F499" src="https://img.icons8.com/color/48/000000/vimeo.png" />][velog]

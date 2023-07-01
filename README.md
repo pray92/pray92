@@ -21,7 +21,7 @@
 ![MFC](https://img.shields.io/badge/-MFC-0078D6?logo=windows&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?logo=opengl&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs%20boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring%20boot&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)

@@ -1,4 +1,4 @@
-# Everything like a noob
+# 🔥 Everything like a noob
 
 > C++ Software Enginer -> Java Back-end Engineer
 

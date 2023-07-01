@@ -49,7 +49,7 @@
 
 ## Solved.ac
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=redgem92)](https://solved.ac/redgem92/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=redgem92)](https://solved.ac/profile/redgem92/)
 
 
 ## 💡 Detail

@@ -1,6 +1,6 @@
 # 🔥 Everything like a noob
 
-> C++ Software Enginer -> Java Back-end Engineer
+> C++ Software Engineer -> Java Back-end Engineer
 
 ## 🙇🏻 Introduction
 

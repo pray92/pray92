@@ -24,6 +24,9 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs%20boot&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring%20boot&logoColor=white)
 
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoftsqlserver&logoColor=white)
+
 ![Windows](https://img.shields.io/badge/-WinAPI-258FFA?logo=microsoft&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white)
 ![MacOS](https://img.shields.io/badge/-MacOS-000000?logo=apple&logoColor=white)

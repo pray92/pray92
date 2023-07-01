@@ -1,16 +1,24 @@
-### Hi there 👋
+# Everything like a noob
 
-<!--
-**pray92/pray92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> C++ Software Enginer -> Java Back-end Engineer
 
-Here are some ideas to get you started:
+## 🙇🏻 Introduction
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Hi!, I'm C/C++ Software Engineer for 5 years 
+- I struggle to move to java back-end engineer
+- My life keywords are `#happiness` `#challenge` `#persistence`
+- I love to make the result by new challenge
+
+## 🛠️ Skill
+
+
+## 📈 Github History
+
+<a href="https://github.com/pray92">
+  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=pray92&show_icons=true&theme=transparent&hide_border=true" />
+</a>
+<a href="https://github.com/pray92"> 
+   <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pray92&layout=compact&theme=transparent&hide_border=true" />
+</a> 
+
+<br>

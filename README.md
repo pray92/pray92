@@ -31,8 +31,8 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white)
 ![MacOS](https://img.shields.io/badge/-MacOS-000000?logo=apple&logoColor=white)
 
-![GitHub](https://img.shields.io/badge/-Github-181717?logo=github&logoColor=white)
-![Gitlab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white)
 ![Subversion](https://img.shields.io/badge/-Subversion-809CC9?logo=subversion&logoColor=white)
 
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)

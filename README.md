@@ -29,7 +29,7 @@
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
-![Windows](https://img.shields.io/badge/-WinAPI-258FFA?logo=microsoft&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-258FFA?logo=microsoft&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white)
 ![MacOS](https://img.shields.io/badge/-MacOS-000000?logo=apple&logoColor=white)
 

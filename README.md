@@ -17,6 +17,9 @@
 <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" /> <t>
 <img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" /> <t>
 
+![Gradle](https://img.shields.io/badge/-Gradle-02303A?logo=gradle&logoColor=white)
+![Maven](https://img.shields.io/badge/-Apache%20Maven-C71A36?logo=apachemaven&logoColor=white)
+
 ![Windows API](https://img.shields.io/badge/-WinAPI-258FFA?logo=microsoft&logoColor=white)
 ![MFC](https://img.shields.io/badge/-MFC-0078D6?logo=windows&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?logo=opengl&logoColor=white)

@@ -59,8 +59,8 @@
 
 ## 💡 Detail
 
-[<img align="left" alt="SOKURI_CODE | V" width="48px" color="#95F499" src="https://img.icons8.com/color/48/000000/vimeo.png" />][velog]
-[<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/instagram-new--v1.png" />][instagram]
+[<img align="left" alt="SOKURI_CODE | V" width="48px" color="#95F499" src="https://static.velog.io/favicon.ico" />][velog]
+[<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://static.cdninstagram.com/rsrc.php/v3/yt/r/30PrGfR3xhB.png" />][instagram]
 
 [velog]: https://velog.io/@redgem92
 [instagram]: https://www.instagram.com/jisus.choi

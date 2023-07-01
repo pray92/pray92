@@ -52,4 +52,6 @@
 [velog]: https://velog.io/@redgem92
 [instagram]: https://www.instagram.com/jisus.choi
 
-<br>
+<br><br>
+
+<img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpray92&count_bg=%239DAFFE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com" />

@@ -11,11 +11,9 @@
 
 ## 🛠️ Skill
 
+<img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" /> <t>
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" /> <t>
 <img src="https://img.shields.io/badge/-CSharp-239120?style=flat&logo=csharp&logoColor=white" /> <t>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" /> <t>
-<img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" /> <t>
-<img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" /> <t>
 
 ![Gradle](https://img.shields.io/badge/-Gradle-02303A?logo=gradle&logoColor=white)
 ![Maven](https://img.shields.io/badge/-Apache%20Maven-C71A36?logo=apachemaven&logoColor=white)
@@ -24,17 +22,10 @@
 ![MFC](https://img.shields.io/badge/-MFC-0078D6?logo=windows&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?logo=opengl&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring%20boot&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoftsqlserver&logoColor=white)
-
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-
-![Windows](https://img.shields.io/badge/-Windows-258FFA?logo=microsoft&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white)
-![MacOS](https://img.shields.io/badge/-MacOS-000000?logo=apple&logoColor=white)
 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)

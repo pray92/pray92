@@ -36,13 +36,6 @@
 
 ## 📈 Github History
 
-<a href="https://github.com/pray92">
-  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=pray92&show_icons=true&theme=transparent&hide_border=true" />
-</a>
-<a href="https://github.com/pray92"> 
-   <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pray92&layout=compact&theme=transparent&hide_border=true" />
-</a> 
-
 ## Solved.ac
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=redgem92)](https://solved.ac/profile/redgem92)

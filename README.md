@@ -1,6 +1,6 @@
 # 🔥 Everything like a noob
 
-> Greetings Java Back-end Engineer Newcomer
+> Greetings, Java Back-end Engineer Newcomer
 
 ## 🙇🏻 Introduction
 

@@ -1,11 +1,10 @@
 # 🔥 Everything like a noob
 
-> C++ Software Engineer -> Java Back-end Engineer
+> Greetings Java Back-end Engineer Newcomer
 
 ## 🙇🏻 Introduction
 
-- Hi!, I'm C/C++ Software Engineer for 5 years 
-- I'm struggling to move to java back-end engineer
+- I'm struggling to become java back-end engineer
 - My life keywords are `#happiness` `#challenge` `#persistence`
 - I love to make the result by new challenge
 

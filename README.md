@@ -25,6 +25,7 @@
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)
 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
@@ -33,6 +34,14 @@
 
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
 ![Redmine](https://img.shields.io/badge/-Redmine-B32024?logo=redmine&logoColor=white)
+
+## 📜 Personal Page
+
+[Personal Study Page](https://redgem92.notion.site/Personal-Study-Page-29709b4c54a849a59660b0b41868e95b)
+
+[Personal Tech Blog](https://velog.io/@redgem92)
+
+[Instagram](https://www.instagram.com/jisus.choi)
 
 ## 📈 Github History
 
@@ -46,15 +55,6 @@
 ## Solved.ac
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=redgem92)](https://solved.ac/profile/redgem92)
-
-
-## 💡 Detail
-
-[<img align="left" alt="SOKURI_CODE | V" width="48px" color="#95F499" src="https://static.velog.io/favicon.ico" />][velog]
-[<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://static.cdninstagram.com/rsrc.php/v3/yt/r/30PrGfR3xhB.png" />][instagram]
-
-[velog]: https://velog.io/@redgem92
-[instagram]: https://www.instagram.com/jisus.choi
 
 <br><br>
 

@@ -43,7 +43,7 @@
 </a>
 
 <a href="https://redgem92.notion.site/Personal-Study-Page-29709b4c54a849a59660b0b41868e95b?pvs=4">
-  <img align="left" alt="Personal Study Page" height="30px" src="https://img.shields.io/badge/Study&nbsp;Page-3481FE?style=flat&logo=study&logoColor=white" />
+  <img align="left" alt="Personal Study Page" height="30px" src="https://img.shields.io/badge/Study&nbsp;Page-252525?style=flat&logo=notion&logoColor=white" />
 </a>
 
 <a href="https://velog.io/@redgem92">

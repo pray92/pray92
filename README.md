@@ -35,13 +35,27 @@
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
 ![Redmine](https://img.shields.io/badge/-Redmine-B32024?logo=redmine&logoColor=white)
 
-## 📜 Personal Page
+## 📜 My Page
 
-[Personal Study Page](https://redgem92.notion.site/Personal-Study-Page-29709b4c54a849a59660b0b41868e95b)
 
-[Personal Tech Blog](https://velog.io/@redgem92)
+<a href="https://redgem92.notion.site/Jisu-Choi-56c7042bdef04431b0b331000905aa23?pvs=4">
+  <img align="left" alt="Resume & CV" height="30px" src="https://img.shields.io/badge/Resume&nbsp;&amp;&nbsp;CV-8C38CE?style=flat&logo=readdotcv&logoColor=white" /> 
+</a>
 
-[Instagram](https://www.instagram.com/jisus.choi)
+<a href="https://redgem92.notion.site/Personal-Study-Page-29709b4c54a849a59660b0b41868e95b?pvs=4">
+  <img align="left" alt="Personal Study Page" height="30px" src="https://img.shields.io/badge/Study&nbsp;Page-3481FE?style=flat&logo=study&logoColor=white" />
+</a>
+
+<a href="https://velog.io/@redgem92">
+  <img align="left" alt="SOKURI_CODE | RC" height="30px" src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" /> 
+</a>
+
+<a href="https://www.instagram.com/jisus.choi">
+  <img align="left" alt="Instagram" height="30px" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+</a>
+
+
+<br><br>
 
 ## 📈 Github History
 

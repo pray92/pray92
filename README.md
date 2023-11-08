@@ -27,10 +27,12 @@
 ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)
 
+![Naver](https://img.shields.io/badge/Naver&nbsp;Cloud&nbsp;Platform-03C75A.svg?logo=naver&logoColor=white)
+
+
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white)
-![Subversion](https://img.shields.io/badge/-Subversion-809CC9?logo=subversion&logoColor=white)
 
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
 ![Redmine](https://img.shields.io/badge/-Redmine-B32024?logo=redmine&logoColor=white)

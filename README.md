@@ -27,7 +27,7 @@
 ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)
 
-![Naver](https://img.shields.io/badge/Naver&nbsp;Cloud&nbsp;Platform-03C75A.svg?logo=naver&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon&nbsp;Web&nbsp;Service-232F3E.svg?logo=amazonaws&logoColor=white)
 
 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
